@@ -10,7 +10,7 @@ namespace WestOne
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tes2");
+            Console.WriteLine("Test");
         }
     }
 }
